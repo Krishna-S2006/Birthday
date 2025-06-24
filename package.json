@@ -1,0 +1,14 @@
+{
+  "name": "birthday-project-server",
+  "version": "1.0.0",
+  "description": "Node.js Express server to serve Birthday project static files",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
